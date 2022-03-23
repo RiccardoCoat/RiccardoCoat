@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RiccardoCoat
 - 👀 I’m looking to learn a python language 
-- 🌱 I’m currently 
-- 💞️ I’m looking to collaborate whith all friends 
+- 🌱 I’m currently a production operator in PECVD industry for medical devices 
+- 💞️ I’m looking to collaborate whith all friends to improve my coding performances 
 - 📫 How to reach me: laicoatx@gmail.com 
 
 <!---
